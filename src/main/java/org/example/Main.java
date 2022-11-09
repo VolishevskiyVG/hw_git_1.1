@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hello WoW!");
         System.out.println("My name is Vasilii!");
         System.out.println("I go to qa.guru");
-        System.out.println("23432423");
+        System.out.println("Change text in line");
     }
 }
